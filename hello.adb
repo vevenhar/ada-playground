@@ -1,5 +1,7 @@
-with Ada.Text_IO; use Ada.Text_IO;
-procedure Hello is
+-- this is a comment. Ada is NOT case sensitive
+with Ada.Text_IO; -- import the Ada.Text_IO package
+use Ada.Text_IO;  -- use the methods in the package without referencing the package
+procedure Hello is -- DON'T forget 'is'
 begin
-  Put_Line("Hello, Ada!");
-end Hello;
+  put_line("Hello, Ada!"); -- Put_
+end hello; -- the 'end' must follow by the procedure name (not case sensitive)
