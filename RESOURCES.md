@@ -5,6 +5,7 @@
 
 ## Online Source docs
 - GNAT: The GNU Ada Compiler Integrated with the GNAT sources: Front-end files index, Run-Time files index and the Annotated Ada Reference Manual (Technical Corrigendum 1): https://www2.adacore.com/gap-static/GNAT_Book/html/
+- https://cs.nyu.edu/courses/spring01/G22.2130-001/gnat-html/index.htm
 
 ## Index of the Online Source docs, starting Point: ada.ads, a-textio.ads, a-textio.adb
 - https://www2.adacore.com/gap-static/GNAT_Book/html/rts/index.htm
@@ -58,6 +59,8 @@
 
 ## Academia
 - Introduction to ITEC 320 at Radford University: https://www.radford.edu/~nokie//classes/320/f18/lec.1.1.html
+- https://cs.nyu.edu/courses/fall04/G22.2130-001/index.html
+- http://www.isa.uniovi.es/docencia/TiempoReal/Recursos/
 
 ## FAQ
 - http://www.adahome.com/FAQ/programming.html#title
